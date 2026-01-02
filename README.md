@@ -53,9 +53,8 @@ and help businesses make **data-driven decisions**.
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: *add your link*
-- 🐦 Twitter/X: *add your link*
-- 📧 Email: *optional*
+- 💼 LinkedIn: https://www.linkedin.com/in/jyoti-kashyap-58a32336b
+- 📧 Email: kashyapjyoti082000@gmail.com 
 
 ---
 
