@@ -1,61 +1,72 @@
-### 👋 Hi, I'm Jyoti  
-
-# 💡 Helping Data Professionals Grow Every Day
+🚀 Turning Raw Data Into Decisions
 
 ---
 
 ## 🚀 Welcome to My Data Universe 🌌
 
+👋 Hi, I'm Jyoti  
 
 A **Data Analyst / Data Science Enthusiast from India 🇮🇳**,  
-on a mission to turn **raw data into meaningful insights** 📊  
+on a mission to transform **raw data into meaningful insights** 📊  
 and help businesses make **data-driven decisions**.
+
+Passionate about **data analysis, visualization, statistics**,  
+and continuously improving my analytical thinking & problem-solving skills.
 
 ---
 
 ## 💼 What I Do
 
-- 🔹 Analyze & clean data using **SQL & Python**
-- 🔹 Build dashboards using **Power BI & Advanced Excel**
-- 🔹 Work with **business datasets** to solve real problems
-- 🔹 Create projects & share my **learning journey publicly**
-- 🔹 Constantly improving **Data Analytics & Statistics skills**
+🔹 Analyze and clean data using **SQL & Python**  
+🔹 Create insightful dashboards using **Power BI & Advanced Excel**  
+🔹 Work with structured datasets to solve **real business problems**  
+🔹 Apply **statistical concepts** to support decision-making  
+🔹 Build projects and share my **learning journey publicly** 🚀  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Tools**
-- SQL | Python | Excel | Power BI  
-- Statistics | Data Cleaning | Data Visualization  
+- SQL  
+- Python  
+- Power BI  
+- Advanced Excel  
+- Statistics  
+- Data Visualization  
+- Data Cleaning & Analysis  
 
 ---
 
-## 📌 Featured Projects
+## 📊 Featured Projects
 
-🔹 **HR Analytics Project**  
-🔹 **Sales Performance Dashboard**  
-🔹 **Loan Risk Analysis**  
-🔹 **Customer Segmentation**
+🔹 **HR Analytics Dashboard** – Employee attrition & insights  
+🔹 **Sales Performance Analysis** – Business KPI tracking  
+🔹 **Loan Risk Analysis** – Risk & decision support  
+🔹 **Customer Analysis Projects**  
 
-👉 Check repositories for full details 🚀
+👉 Explore my repositories for full project details 📂
 
 ---
 
 ## 📈 My Learning Journey
 
-📅 *2026 Goal:*  
-- Become a **Confident Data Analyst**
-- Crack **Product-based Company Role**
-- Build **strong GitHub + Portfolio**
+📌 Currently focused on:
+- Strengthening **SQL & Python for Analytics**
+- Advanced **Power BI dashboards**
+- End-to-end **real-world data projects**
+- Building a **strong analytics portfolio**
+
+🎯 **2026 Goal:** Become a confident Data Analyst in a reputed company
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jyoti-kashyap-58a32336b
-- 📧 Email: kashyapjyoti082000@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/jyoti-kashyap-58a32336b
+
+📧 Email: kashyapjyoti082000@gmail.com 
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*  
+⭐ If you find my work useful, don’t forget to **star ⭐ my repositories**
